@@ -1,2 +1,2 @@
 # GeneralProjects
-A general repository for my projects and interests
+A general repository for smaller project and random interests.
